@@ -3,20 +3,20 @@
     "spec_version": "2.0",
     "objects": [
         {
-            "created": "2023-08-08T12:17:39.791Z",
+            "created": "2023-09-08T16:22:54.523Z",
             "id": "identity--8899d562-2667-4532-8e19-b4eca6c959bd",
             "identity_class": "system",
-            "modified": "2023-08-08T12:17:39.791Z",
+            "modified": "2023-09-08T16:22:54.523Z",
             "name": "carbonblack",
             "type": "identity"
         },
         {
-            "created": "2023-08-08T12:17:39.791Z",
+            "created": "2023-09-08T16:22:54.523Z",
             "created_by_ref": "identity--8899d562-2667-4532-8e19-b4eca6c959bd",
-            "first_observed": "2023-08-08T12:17:39.791Z",
+            "first_observed": "2023-09-08T16:22:54.523Z",
             "id": "observed-data--626a6ca7-1145-4a66-b695-e1fe8090c319",
-            "last_observed": "2023-08-08T12:17:39.791Z",
-            "modified": "2023-08-08T12:17:39.791Z",
+            "last_observed": "2023-09-08T16:22:54.523Z",
+            "modified": "2023-09-08T16:22:54.523Z",
             "number_observed": 1,
             "objects": {
                 "0": {
