@@ -388,8 +388,8 @@
                 "5": {
                     "type": "EmailMessage",
                     "subject": "how are you doing today?",
-                    "to": "adam@soclab.com",
-                    "from": "hr.events@soclabs.co.uk"
+                    "to": "adam@soclabdemo.onmicrosoft.com",
+                    "from": "maliciousattacker45@gmail.com"
                 },
                 "6": {
                     "type": "file",
