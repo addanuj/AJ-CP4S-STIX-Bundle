@@ -389,7 +389,7 @@
                     "type": "EmailMessage",
                     "subject": "how are you doing today?",
                     "to": "adam@soclabdemo.onmicrosoft.com",
-                    "from": "maliciousattacker45@gmail.com"
+                    "from": "maliciousattacker769@gmail.com"
                 },
                 "6": {
                     "type": "file",
