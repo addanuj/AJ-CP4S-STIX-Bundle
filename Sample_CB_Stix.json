@@ -3,28 +3,26 @@
     "spec_version": "2.0",
     "objects": [
         {
-            "created": "2024-05-15T07:29:07.512Z",
+            "created": "2025-10-03T07:29:07.512Z",
             "id": "identity--8899d562-2667-4532-8e19-b4eca6c959bd",
             "identity_class": "system",
-            "modified": "2024-05-15T07:29:07.512Z",
+            "modified": "2025-10-03T07:29:07.512Z",
             "name": "carbonblack",
             "type": "identity"
         },
         {
-            "created": "2024-05-15T07:29:07.512Z",
+            "created": "2025-10-03T07:29:07.512Z",
             "created_by_ref": "identity--8899d562-2667-4532-8e19-b4eca6c959bd",
-            "first_observed": "2024-05-15T07:29:07.512Z",
+            "first_observed": "2025-10-03T07:29:07.512Z",
             "id": "observed-data--626a6ca7-1145-4a66-b695-e1fe8090c319",
-            "last_observed": "2024-05-15T07:29:07.512Z",
-            "modified": "2024-05-15T07:29:07.512Z",
+            "last_observed": "2025-10-03T07:29:07.512Z",
+            "modified": "2025-10-03T07:29:07.512Z",
             "number_observed": 1,
             "objects": {
                 "0": {
                     "type": "ipv4-addr",
                     "value": "192.168.100.23",
-                    "resolves_to_refs": [
-                        "1"
-                    ]
+                    "resolves_to_refs": ["1"]
                 },
                 "1": {
                     "type": "mac-addr",
